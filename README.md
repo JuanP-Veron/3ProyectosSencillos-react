@@ -1,8 +1,33 @@
-# React + Vite
+# Mini-Proyectos React ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Colección de tres pequeños proyectos creados con React que demuestran conceptos fundamentales:
 
-Currently, two official plugins are available:
+## 📦 Proyectos incluidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. 📞 Llamar a una API (JSONPlaceholder)
+**Características:**
+- Fetch a la (https://jsonplaceholder.typicode.com/)
+- Muestra los users
+
+**Tecnologías:**
+- `fetch API`
+- `useState`, `useEffect`
+- Manejo de estados asíncronos
+
+### 2. 🔢 Contador interactivo
+**Características:**
+- Animaciones básicas
+
+**Tecnologías:**
+- Manejo de estado simple
+- Event handlers
+- Conditional rendering
+
+### 3. ✅ Lista de Tareas (Todo App)
+**Características:**
+- Añadir nuevas tareas
+- Marcar como completadas
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/tu-usuario/tus-proyectos-react.git
